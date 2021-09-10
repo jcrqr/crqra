@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crqra&show_icons=true&locale=en" alt="austingil" /></p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crqra)](https://git.io/streak-stats)
