@@ -2,8 +2,8 @@
 
 🔭 I’m currently working on:
 
-- http://github.com/crqra/go-action
-- http://github.com/carlsberg/git-semver
+- [crqra/go-action](http://github.com/crqra/go-action): GitHub Actions Toolkit for Go
+- [carlsberg/git-semver](http://github.com/carlsberg/git-semver): Automatic version management for Git repositories
 
 🌱 I’m currently learning:
 
