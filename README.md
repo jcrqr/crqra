@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**crqra/crqra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
 
-Here are some ideas to get you started:
+- http://github.com/crqra/go-action
+- http://github.com/carlsberg/git-semver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+
+- Golang
+- CLIs UX
+
+👯 I’m looking to collaborate on:
+
+- Golang Packages
+
+✨ I'm currently interested in:
+
+- Automation
+- Developer Experience
+- Command-line interfaces
+
+📫 How to reach me:
+
+- joao@cerqueira.io
