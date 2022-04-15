@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on:
 
+- [Reposaur](http://github.com/reposaur/reposaur): Audit your GitHub data using custom policies written in Rego
 - [Go Action](http://github.com/crqra/go-action): GitHub Actions Toolkit for Go
 - [Git SemVer](http://github.com/carlsberg/git-semver): Automatic version management for Git repositories
 
