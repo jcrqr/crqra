@@ -3,10 +3,8 @@
 🔭 I’m currently working on:
 
 - [Reposaur](http://github.com/reposaur/reposaur): Audit your GitHub data using custom policies written in Rego
-- [Go Action](http://github.com/crqra/go-action): GitHub Actions Toolkit for Go
-- [Git SemVer](http://github.com/carlsberg/git-semver): Automatic version management for Git repositories
 
-🌱 I’m currently learning:
+🌱 I’m currently learning/improving on:
 
 - Golang
 - CLIs UX
@@ -18,9 +16,11 @@
 ✨ I'm currently interested in:
 
 - Automation
+- Security & Compliance
 - Developer Experience
 - Command-line interfaces
 
 📫 How to reach me:
 
+- [@cerqueira_io](https://twitter.com/cerqueira_io)
 - joao@cerqueira.io
